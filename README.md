@@ -60,3 +60,7 @@ projeto-android/
 ├── index.html
 ├── style.css
 └── README.md
+```
+## Autor
+### Emanuel Pereira
+GitHub: https://github.com/dev-emanuelpereira
