@@ -6,7 +6,7 @@
 
 Projeto desenvolvido com **HTML5** e **CSS3**, inspirado em blogs e sites de artigos. O objetivo principal foi praticar conceitos fundamentais de front-end, estruturação semântica de páginas, estilização com CSS e responsividade.
 
-**Acesse o site:**  
+🔗 **Acesse o site:**  
 https://dev-emanuelpereira.github.io/projeto-android/
 
 ---
@@ -47,7 +47,7 @@ O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela, garanti
 
 ---
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```bash
 projeto-android/
@@ -61,6 +61,8 @@ projeto-android/
 ├── style.css
 └── README.md
 ```
-## Autor
+---
+
+## 👤 Autor
 ### Emanuel Pereira
-GitHub: https://github.com/dev-emanuelpereira
+- GitHub: https://github.com/dev-emanuelpereira
