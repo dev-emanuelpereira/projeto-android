@@ -1,8 +1,7 @@
+# Projeto Android
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-
-# Projeto Android
 
 Projeto desenvolvido com **HTML5** e **CSS3**, inspirado em blogs e sites de artigos. O objetivo principal foi praticar conceitos fundamentais de front-end, estruturação semântica de páginas, estilização com CSS e responsividade.
 
